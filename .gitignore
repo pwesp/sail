@@ -1,3 +1,14 @@
+# Project-specific ignores
+BiomedParse/
+data/
+lightning_logs/
+logs/
+pretrained/*.ckpt
+pretrained/*.pt
+pretrained/*.pth
+results/
+TotalSegmentator/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

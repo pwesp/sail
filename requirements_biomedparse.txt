@@ -1,0 +1,9 @@
+# Core dependencies for BiomedParse encoding
+pyarrow==22.0.0
+timm==1.0.22
+
+# Note: If you see deprecation warnings from kornia or transformers:
+# - These are dependencies of BiomedParse that use outdated PyTorch APIs
+# - Upgrading to latest versions should fix the warnings:
+#   pip install --upgrade kornia transformers
+# - Current script suppresses these warnings as they don't affect functionality
