@@ -1,0 +1,11 @@
+rank,image_id,slice_idx,similarity,array_idx,modality,slice_orientation,gender,age,organs
+1,s0235,40,0.9996296167373657,90408,mri,z,m,55.0,colon; aorta; autochthon_left; liver; pancreas; intervertebral_discs; vertebrae; small_bowel; adrenal_gland_left; inferior_vena_cava; duodenum; kidney_right; spinal_cord; kidney_left; autochthon_right
+2,s0242,74,0.9993798136711121,90646,mri,z,m,73.0,spleen; colon; aorta; autochthon_left; liver; vertebrae; inferior_vena_cava; gallbladder; lung_right; stomach; portal_vein_and_splenic_vein; spinal_cord; autochthon_right
+3,s0275,25,0.9993310570716858,92084,mri,z,m,61.0,colon; femur_left; prostate; iliopsoas_right; iliac_artery_left; iliopsoas_left; iliac_artery_right; hip_right; iliac_vena_left; gluteus_maximus_right; femur_right; hip_left; iliac_vena_right; sacrum; gluteus_maximus_left
+4,s0213,6,0.9985726475715637,89848,mri,z,m,54.0,colon; aorta; autochthon_left; liver; vertebrae; small_bowel; inferior_vena_cava; iliopsoas_right; kidney_right; iliopsoas_left; spinal_cord; autochthon_right
+5,s0289,35,0.9985430836677551,92528,mri,z,m,75.0,spleen; colon; aorta; autochthon_left; liver; vertebrae; adrenal_gland_right; adrenal_gland_left; inferior_vena_cava; kidney_right; stomach; portal_vein_and_splenic_vein; spinal_cord; kidney_left; autochthon_right
+6,s0284,40,0.9977105855941772,92435,mri,z,m,67.0,colon; iliopsoas_right; gluteus_minimus_left; gluteus_medius_right; iliac_artery_left; iliopsoas_left; hip_right; gluteus_minimus_right; gluteus_medius_left; iliac_vena_left; gluteus_maximus_right; hip_left; sacrum; gluteus_maximus_left
+7,s0260,0,0.99747234582901,91784,mri,z,m,46.0,colon; aorta; autochthon_left; vertebrae; small_bowel; inferior_vena_cava; duodenum; iliopsoas_right; kidney_right; iliopsoas_left; spinal_cord; kidney_left; autochthon_right
+8,s0506,169,0.997307300567627,93641,mri,z,m,60.0,intervertebral_discs; spinal_cord
+9,s0253,59,0.9967032074928284,91450,mri,z,m,66.0,spleen; colon; aorta; autochthon_left; liver; heart; lung_left; vertebrae; inferior_vena_cava; lung_right; esophagus; spinal_cord; autochthon_right
+10,s0167,112,0.9963780641555786,89119,mri,y,f,76.0,colon; liver; lung_left; small_bowel; lung_right; stomach

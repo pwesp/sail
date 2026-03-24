@@ -1,0 +1,3 @@
+target,feature_type,C,l1_ratio,n_features,n_nonzero,sparsity,train_f1,train_roc_auc,train_balanced_acc,eval_f1,eval_roc_auc,eval_balanced_acc,eval_log_loss,fit_time
+mri,dense,1.0,0.5,1024,244,0.76171875,1.0,1.0,1.0,0.9964453617704392,0.9999988773533854,0.9995500403052552,,34.51808023452759
+mri,sparse,1.0,0.5,4096,467,0.885986328125,0.0,0.9951176987965737,0.5,0.0,0.9915596357917785,0.5,,147.59750080108643

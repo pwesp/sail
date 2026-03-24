@@ -1,0 +1,7 @@
+row_id,reference_id,reference_slice,retrieval_method,rank,retrieved_image_id,retrieved_slice_idx,similarity,modality,slice_orientation,gender,age,pathology,pathology_location,organs_present
+manuscript_row_0000,s0593,253,dense_fingerprint,1,s0052,34,0.9999991655349731,ct,x,m,78.0,other,pelvis,colon; costal_cartilages; femur_left; gluteus_maximus_left; gluteus_medius_left; gluteus_minimus_left; hip_left; lung_lower_lobe_left; rib_left_10; rib_left_11; rib_left_9; small_bowel; spleen
+manuscript_row_0000,s0593,253,dense_fingerprint,2,s1395,32,0.9999991059303284,ct,x,m,70.0,vascular,"abdomen,pelvis",gluteus_maximus_left; gluteus_medius_left; humerus_left; rib_left_10; rib_left_11; scapula_left
+manuscript_row_0001,s0792,63,dense_fingerprint,1,s1096,266,0.999728262424469,ct,x,m,81.0,tumor,thorax,autochthon_right; liver; lung_lower_lobe_right; rib_right_10; rib_right_11; rib_right_7; rib_right_8; rib_right_9
+manuscript_row_0001,s0792,63,dense_fingerprint,2,s1410,79,0.9996051788330078,ct,x,f,90.0,,,brain; skull; vertebrae_C1
+manuscript_row_0002,s0411,6,dense_fingerprint,1,s0538,45,0.9999576807022095,mri,z,m,83.0,,,clavicula_left; clavicula_right; intervertebral_discs; scapula_left; scapula_right; spinal_cord
+manuscript_row_0002,s0411,6,dense_fingerprint,2,s0153,102,0.9998966455459595,mri,y,m,68.0,,,aorta; clavicula_left; clavicula_right; colon; gallbladder; heart; liver; lung_left; lung_right; small_bowel; stomach

@@ -1,0 +1,206 @@
+[
+  {
+    "name": "ct_thorax_coronal",
+    "query_text": "Coronal CT of the thorax and rib cage",
+    "matched_feature_indices": [
+      1509,
+      444,
+      106
+    ],
+    "matched_descriptions": [
+      "Coronal CT of the chest including ribs and lungs in male patients",
+      "Coronal CT of the chest including ribs and mediastinum",
+      "Coronal CT of the rib cage and sternum"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T23:38:02.736102"
+  },
+  {
+    "name": "ct_spine_sagittal",
+    "query_text": "Sagittal CT of the thoracolumbar spine and spinal canal",
+    "matched_feature_indices": [
+      101,
+      635,
+      415
+    ],
+    "matched_descriptions": [
+      "Sagittal CT of the thoracic spine and spinal canal",
+      "Sagittal CT of the thoracic spine and spinal canal",
+      "Sagittal CT/MRI of the thoracic spine and spinal canal in an elderly male patient"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T23:38:13.324720"
+  },
+  {
+    "name": "ct_lumbar_axial",
+    "query_text": "Axial CT of the lumbar spine and spinal canal",
+    "matched_feature_indices": [
+      3293,
+      1481,
+      1854
+    ],
+    "matched_descriptions": [
+      "Axial CT of the lumbar spine and spinal canal",
+      "Axial CT of the lumbar spine and spinal canal",
+      "Axial CT of the lumbar spine and spinal canal"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T23:38:23.388584"
+  },
+  {
+    "name": "ct_pelvis_coronal",
+    "query_text": "Coronal CT of the bony pelvis and lumbar spine",
+    "matched_feature_indices": [
+      478,
+      1854,
+      1536
+    ],
+    "matched_descriptions": [
+      "Coronal CT of the bony pelvis and lumbar spine in an elderly patient",
+      "Axial CT of the lumbar spine and spinal canal",
+      "Coronal CT of the bony pelvis and lumbar spine"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T23:38:34.006952"
+  },
+  {
+    "name": "ct_abdomen_pelvis_coronal",
+    "query_text": "Coronal CT of the abdomen and pelvis",
+    "matched_feature_indices": [
+      172,
+      1403,
+      352
+    ],
+    "matched_descriptions": [
+      "Coronal CT of the abdomen and pelvis including the aorta, liver, kidneys, and vertebral column.",
+      "Coronal CT of the chest and upper abdomen in an adult patient",
+      "Coronal CT of the chest and upper abdomen in an adult patient"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T23:38:45.193078"
+  },
+  {
+    "name": "ct_skull_axial",
+    "query_text": "Axial CT of the skull and brain",
+    "matched_feature_indices": [
+      594,
+      309,
+      1188
+    ],
+    "matched_descriptions": [
+      "Axial CT of the head and skull",
+      "Axial CT of the skull in an adult patient",
+      "Axial CT of the brain and skull"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T23:38:55.559968"
+  },
+  {
+    "name": "ct_female_pelvis",
+    "query_text": "Axial CT of the female pelvis",
+    "matched_feature_indices": [
+      907,
+      138,
+      1259
+    ],
+    "matched_descriptions": [
+      "Axial CT of the male pelvis including iliac vessels and hip joints",
+      "Axial CT of the bony pelvis in a female patient",
+      "Axial CT of the bony pelvis in a female patient"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T23:39:05.948700"
+  },
+  {
+    "name": "ct_male_pelvis",
+    "query_text": "Axial CT of the male pelvis",
+    "matched_feature_indices": [
+      907,
+      6098,
+      1897
+    ],
+    "matched_descriptions": [
+      "Axial CT of the male pelvis including iliac vessels and hip joints",
+      "Axial CT of the pelvis in a male patient",
+      "Axial CT of the bony pelvis and surrounding structures"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T23:39:16.341672"
+  },
+  {
+    "name": "ct_thorax_female",
+    "query_text": "Axial CT of the thorax and mediastinum in a female patient",
+    "matched_feature_indices": [
+      303,
+      3195,
+      877
+    ],
+    "matched_descriptions": [
+      "Axial CT of the thorax and mediastinum in a female patient",
+      "Axial CT of the thorax and mediastinum in a female patient",
+      "CT of the thorax and mediastinum in a male patient"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T23:39:26.989115"
+  },
+  {
+    "name": "ct_thorax_male",
+    "query_text": "Axial CT of the thorax and mediastinum in a male patient",
+    "matched_feature_indices": [
+      215,
+      1317,
+      877
+    ],
+    "matched_descriptions": [
+      "Axial CT of the thorax and mediastinum in a male patient",
+      "Axial CT of the thorax and mediastinum in a male patient",
+      "CT of the thorax and mediastinum in a male patient"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T23:39:37.106007"
+  },
+  {
+    "name": "ct_abdomen_elderly",
+    "query_text": "Axial CT of the abdomen and retroperitoneum in an elderly patient",
+    "matched_feature_indices": [
+      853,
+      1202,
+      6969
+    ],
+    "matched_descriptions": [
+      "Axial CT of the abdomen and retroperitoneum in an elderly patient",
+      "CT of the abdominal vasculature, bowel, and lumbar spine in a middle-aged female patient",
+      "Axial CT of the abdomen and retroperitoneum in a female patient"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T23:39:47.224599"
+  },
+  {
+    "name": "mri_pelvis",
+    "query_text": "Axial MRI of the pelvis",
+    "matched_feature_indices": [
+      1064,
+      8158,
+      3397
+    ],
+    "matched_descriptions": [
+      "Axial MRI of the pelvis in an elderly patient",
+      "Axial MRI of the abdomen and pelvis in an elderly patient",
+      "Axial MRI of the abdomen and pelvis"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T23:39:57.987638"
+  }
+]

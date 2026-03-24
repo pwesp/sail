@@ -1,0 +1,172 @@
+[
+  {
+    "name": "ct_thorax_coronal",
+    "query_text": "Coronal CT of the thorax and rib cage",
+    "matched_feature_indices": [
+      458,
+      345,
+      84
+    ],
+    "matched_descriptions": [
+      "Coronal CT of the thorax and rib cage",
+      "Coronal CT of the thorax and rib cage",
+      "Coronal CT of the thorax and rib cage"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T22:54:01.159346"
+  },
+  {
+    "name": "ct_spine_sagittal",
+    "query_text": "Sagittal CT of the thoracolumbar spine and spinal canal",
+    "matched_feature_indices": [
+      120,
+      1103,
+      1510
+    ],
+    "matched_descriptions": [
+      "Sagittal CT of the thoracic and lumbar spine and spinal canal",
+      "Axial CT or MRI of the thoracic spine and spinal canal.",
+      "Sagittal CT or MRI of the lumbar spine and spinal canal in an elderly patient."
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T22:54:11.448289"
+  },
+  {
+    "name": "ct_lumbar_axial",
+    "query_text": "Axial CT of the lumbar spine and spinal canal",
+    "matched_feature_indices": [
+      1984,
+      1510,
+      7291
+    ],
+    "matched_descriptions": [
+      "CT of the lumbar spine and spinal canal",
+      "Sagittal CT or MRI of the lumbar spine and spinal canal in an elderly patient.",
+      "CT or MRI of the thoracic spine and associated structures."
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T22:54:20.935048"
+  },
+  {
+    "name": "ct_pelvis_coronal",
+    "query_text": "Coronal CT of the bony pelvis and lumbar spine",
+    "matched_feature_indices": [
+      267,
+      262,
+      85
+    ],
+    "matched_descriptions": [
+      "Coronal CT of the bony pelvis and lumbar spine",
+      "Coronal CT of the thoracic spine and paraspinal muscles in a male patient.",
+      "Coronal CT of the rib cage and thoracic spine in a male patient"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T22:54:31.261303"
+  },
+  {
+    "name": "ct_abdomen_pelvis_coronal",
+    "query_text": "Coronal CT of the abdomen and pelvis",
+    "matched_feature_indices": [
+      564,
+      274,
+      1964
+    ],
+    "matched_descriptions": [
+      "Coronal CT of the abdomen and pelvis in a male patient",
+      "Coronal CT of the abdomen and pelvis in an elderly patient",
+      "CT of the abdomen and pelvis in a female patient"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T22:54:41.566136"
+  },
+  {
+    "name": "ct_skull_axial",
+    "query_text": "Axial CT of the skull and brain",
+    "matched_feature_indices": [
+      159,
+      1437,
+      1995
+    ],
+    "matched_descriptions": [
+      "CT of the skull and brain",
+      "CT of the brain and skull",
+      "CT of the skull and brain"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T22:54:51.074749"
+  },
+  {
+    "name": "ct_male_pelvis",
+    "query_text": "Axial CT of the male pelvis",
+    "matched_feature_indices": [
+      601,
+      477,
+      1930
+    ],
+    "matched_descriptions": [
+      "Axial CT of the bony pelvis and surrounding structures in male patients.",
+      "Axial CT of the bony pelvis and proximal femur",
+      "Axial CT of the bony pelvis and surrounding structures in a female patient."
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T22:55:01.141044"
+  },
+  {
+    "name": "ct_thorax_male",
+    "query_text": "Axial CT of the thorax and mediastinum in a male patient",
+    "matched_feature_indices": [
+      210,
+      1213,
+      1236
+    ],
+    "matched_descriptions": [
+      "Axial CT of the thorax and mediastinum",
+      "Axial CT of the thorax and mediastinum",
+      "Axial CT of the thorax and mediastinum in a male patient"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T22:55:10.965081"
+  },
+  {
+    "name": "ct_abdomen_elderly",
+    "query_text": "Axial CT of the abdomen and retroperitoneum in an elderly patient",
+    "matched_feature_indices": [
+      51,
+      1624,
+      543
+    ],
+    "matched_descriptions": [
+      "Axial CT of the abdomen and retroperitoneum including the ribs and spine.",
+      "Axial MRI of the abdomen and retroperitoneum in an elderly patient",
+      "Axial CT or MRI of the chest and upper abdomen in a male patient."
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T22:55:21.333308"
+  },
+  {
+    "name": "mri_pelvis",
+    "query_text": "Axial MRI of the pelvis",
+    "matched_feature_indices": [
+      1714,
+      889,
+      1886
+    ],
+    "matched_descriptions": [
+      "CT of the bony pelvis and surrounding structures",
+      "Coronal CT of the bony pelvis and proximal femur",
+      "Axial CT of the bony pelvis and proximal femur"
+    ],
+    "reasoning": "",
+    "vlm_model": "google/medgemma-27b-it",
+    "timestamp": "2026-02-26T22:55:32.226658"
+  }
+]

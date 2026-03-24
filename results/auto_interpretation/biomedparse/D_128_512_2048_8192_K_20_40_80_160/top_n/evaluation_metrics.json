@@ -1,0 +1,14 @@
+{
+  "success_rate": 0.74,
+  "mean_rank": 1.912,
+  "median_rank": 1.0,
+  "rank_distribution": {
+    "1": 141,
+    "2": 44,
+    "3": 28,
+    "4": 20,
+    "5": 17
+  },
+  "n_evaluated": 250,
+  "n_parse_failures": 1
+}

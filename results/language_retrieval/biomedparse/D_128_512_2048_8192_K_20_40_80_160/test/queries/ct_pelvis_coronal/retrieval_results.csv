@@ -1,0 +1,11 @@
+rank,image_id,slice_idx,similarity,array_idx,modality,slice_orientation,gender,age,organs
+1,s0746,37,0.983953058719635,32434,ct,y,m,62.0,gluteus_maximus_left; hip_right; gluteus_maximus_right; autochthon_left; autochthon_right; vertebrae_T8; sacrum; vertebrae_T9
+2,s0581,83,0.936143696308136,22438,ct,y,f,72.0,gluteus_maximus_left; hip_right; gluteus_maximus_right; autochthon_left; liver; autochthon_right; vertebrae_S1; colon; vertebrae_L5; sacrum; hip_left; gluteus_medius_left; femur_left; kidney_left; vertebrae_L3; gluteus_medius_right; vertebrae_L2; spinal_cord; vertebrae_L4; femur_right; kidney_right
+3,s1341,60,0.9245088696479797,84320,ct,x,m,19.0,
+4,s1168,7,0.9245087504386902,66556,ct,y,m,52.0,autochthon_right
+5,s0122,28,0.9245086908340454,25,ct,x,f,54.0,gluteus_maximus_left; gluteus_medius_left; femur_left; gluteus_minimus_left
+6,s1191,185,0.9245086312294006,69852,ct,y,m,66.0,liver; costal_cartilages; stomach
+7,s0798,231,0.9245080351829529,38864,ct,x,f,56.0,humerus_right
+8,s0775,161,0.9244987964630127,36457,ct,y,m,73.0,costal_cartilages
+9,s0385,231,0.924498438835144,5784,ct,x,f,64.0,gluteus_maximus_right
+10,s1101,22,0.9244941473007202,59768,ct,x,f,76.0,humerus_left

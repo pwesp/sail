@@ -1,0 +1,11 @@
+rank,image_id,slice_idx,similarity,array_idx,modality,slice_orientation,gender,age,organs
+1,s0575,33,0.9982742071151733,22113,ct,z,f,77.0,skull; brain
+2,s0518,197,0.994552731513977,18825,ct,z,m,47.0,skull; brain
+3,s0588,76,0.9685585498809814,25119,ct,z,m,44.0,skull; brain
+4,s1311,287,0.9463839530944824,80999,ct,z,m,70.0,skull; brain
+5,s0449,38,0.9077147841453552,10368,ct,z,f,77.0,skull; brain
+6,s0535,180,0.8980892896652222,19310,ct,z,m,67.0,skull; brain
+7,s1150,35,0.8849241137504578,64702,ct,z,f,45.0,skull; brain
+8,s1194,79,0.884750485420227,70339,ct,z,m,18.0,skull; brain
+9,s0878,223,0.8839789628982544,47049,ct,z,m,66.0,rib_left_12; vertebrae_L2; spleen; rib_right_9; rib_right_11; aorta; autochthon_left; liver; vertebrae_L1; pancreas; rib_left_11; adrenal_gland_left; inferior_vena_cava; iliopsoas_right; rib_right_12; kidney_right; stomach; portal_vein_and_splenic_vein; iliopsoas_left; spinal_cord; kidney_left; rib_right_10; costal_cartilages; rib_left_10; autochthon_right
+10,s0416,274,0.882867157459259,8776,ct,z,m,30.0,spleen; rib_right_9; rib_right_11; aorta; autochthon_left; liver; rib_left_11; rib_right_7; rib_left_6; rib_left_7; stomach; vertebrae_T12; spinal_cord; rib_right_10; costal_cartilages; rib_right_6; rib_right_8; rib_left_9; rib_left_10; autochthon_right

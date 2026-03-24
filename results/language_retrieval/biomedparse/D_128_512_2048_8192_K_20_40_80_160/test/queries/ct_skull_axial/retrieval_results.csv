@@ -1,0 +1,11 @@
+rank,image_id,slice_idx,similarity,array_idx,modality,slice_orientation,gender,age,organs
+1,s0449,39,0.9998460412025452,10369,ct,z,f,77.0,skull; brain
+2,s0575,31,0.9998182058334351,22111,ct,z,f,77.0,skull; brain
+3,s1194,120,0.9997525811195374,70123,ct,x,m,18.0,skull; brain
+4,s0588,26,0.9980179667472839,24907,ct,y,m,44.0,skull; brain
+5,s0518,200,0.995374321937561,18828,ct,z,m,47.0,skull; brain
+6,s1150,97,0.9928434491157532,64626,ct,y,f,45.0,skull; brain
+7,s0535,171,0.9767618179321289,19301,ct,z,m,67.0,skull; brain
+8,s0568,22,0.9741687774658203,21610,ct,y,f,56.0,skull; brain
+9,s1335,97,0.9270753264427185,83418,ct,z,f,44.0,vertebrae_C1; skull; brain
+10,s1318,46,0.92656409740448,81581,ct,y,m,52.0,autochthon_left; autochthon_right; vertebrae_T6

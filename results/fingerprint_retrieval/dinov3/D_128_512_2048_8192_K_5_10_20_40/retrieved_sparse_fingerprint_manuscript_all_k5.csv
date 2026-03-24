@@ -1,0 +1,7 @@
+row_id,reference_id,reference_slice,retrieval_method,rank,retrieved_image_id,retrieved_slice_idx,similarity,modality,slice_orientation,gender,age,pathology,pathology_location,organs_present
+manuscript_row_0000,s0593,253,sparse_fingerprint,1,s0726,236,0.9988590478897095,ct,x,f,69.0,tumor,"thorax,abdomen,bones",femur_right; gluteus_maximus_right
+manuscript_row_0000,s0593,253,sparse_fingerprint,2,s0058,258,0.9943732023239136,ct,z,f,69.0,tumor,abdomen,aorta; autochthon_left; autochthon_right; colon; costal_cartilages; inferior_vena_cava; liver; lung_lower_lobe_left; lung_lower_lobe_right; rib_left_10; rib_left_11; rib_left_8; rib_left_9; rib_right_10; rib_right_11; rib_right_8; rib_right_9; spinal_cord; spleen; stomach; vertebrae_T10; vertebrae_T11
+manuscript_row_0001,s0792,63,sparse_fingerprint,1,s0103,73,0.9974051713943481,ct,x,m,41.0,no_pathology,no_location,brain; skull; vertebrae_C1
+manuscript_row_0001,s0792,63,sparse_fingerprint,2,s1410,63,0.9933831691741943,ct,x,f,90.0,,,brain; skull; spinal_cord; vertebrae_C1; vertebrae_C2
+manuscript_row_0002,s0411,6,sparse_fingerprint,1,s0394,5,0.9953688383102417,mri,x,f,87.0,,,aorta; intervertebral_discs; spinal_cord; vertebrae
+manuscript_row_0002,s0411,6,sparse_fingerprint,2,s0433,5,0.9921870827674866,mri,x,f,51.0,,,intervertebral_discs; spinal_cord; vertebrae

@@ -1,0 +1,3 @@
+target,feature_type,C,l1_ratio,n_features,n_nonzero,sparsity,train_f1,train_roc_auc,train_balanced_acc,eval_f1,eval_roc_auc,eval_balanced_acc,eval_log_loss,fit_time
+G,dense,1.0,0.5,1536,1536,0.0,0.02710027100271,0.5006319087464988,0.5063190874649879,0.0,,0.9170547301506848,,304.78899455070496
+G,sparse,1.0,0.5,2048,314,0.8466796875,0.02722430459656737,0.4011536743289276,0.5,0.0,,0.0,,308.4260964393616

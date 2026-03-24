@@ -1,0 +1,16 @@
+row_id,reference_id,reference_slice,modality,slice_orientation,gender,age,pathology,pathology_location,organs_present,feature_idx,activation
+manuscript_row_0000,s0593,253,ct,x,f,55.0,tumor,"abdomen,bones",gluteus_maximus_right; gluteus_medius_right,467,-26.025312423706055
+manuscript_row_0000,s0593,253,ct,x,f,55.0,tumor,"abdomen,bones",gluteus_maximus_right; gluteus_medius_right,1304,1.1236119270324707
+manuscript_row_0000,s0593,253,ct,x,f,55.0,tumor,"abdomen,bones",gluteus_maximus_right; gluteus_medius_right,515,0.9425418376922607
+manuscript_row_0000,s0593,253,ct,x,f,55.0,tumor,"abdomen,bones",gluteus_maximus_right; gluteus_medius_right,1228,0.9369764924049377
+manuscript_row_0000,s0593,253,ct,x,f,55.0,tumor,"abdomen,bones",gluteus_maximus_right; gluteus_medius_right,297,0.8496888875961304
+manuscript_row_0001,s0792,63,ct,x,m,84.0,no_pathology,no_location,brain; skull; spinal_cord; vertebrae_C1,467,-24.265132904052734
+manuscript_row_0001,s0792,63,ct,x,m,84.0,no_pathology,no_location,brain; skull; spinal_cord; vertebrae_C1,1267,-1.8070781230926514
+manuscript_row_0001,s0792,63,ct,x,m,84.0,no_pathology,no_location,brain; skull; spinal_cord; vertebrae_C1,713,-1.6482951641082764
+manuscript_row_0001,s0792,63,ct,x,m,84.0,no_pathology,no_location,brain; skull; spinal_cord; vertebrae_C1,1123,1.6133817434310913
+manuscript_row_0001,s0792,63,ct,x,m,84.0,no_pathology,no_location,brain; skull; spinal_cord; vertebrae_C1,1483,-1.5886813402175903
+manuscript_row_0002,s0411,6,ct,x,f,71.0,inflammation,thorax,clavicula_left; lung_upper_lobe_left; rib_left_2; rib_left_3; rib_left_4; rib_left_5; rib_left_6; scapula_left; subclavian_artery_left,467,-24.06521224975586
+manuscript_row_0002,s0411,6,ct,x,f,71.0,inflammation,thorax,clavicula_left; lung_upper_lobe_left; rib_left_2; rib_left_3; rib_left_4; rib_left_5; rib_left_6; scapula_left; subclavian_artery_left,1271,-1.6274418830871582
+manuscript_row_0002,s0411,6,ct,x,f,71.0,inflammation,thorax,clavicula_left; lung_upper_lobe_left; rib_left_2; rib_left_3; rib_left_4; rib_left_5; rib_left_6; scapula_left; subclavian_artery_left,255,1.4678016901016235
+manuscript_row_0002,s0411,6,ct,x,f,71.0,inflammation,thorax,clavicula_left; lung_upper_lobe_left; rib_left_2; rib_left_3; rib_left_4; rib_left_5; rib_left_6; scapula_left; subclavian_artery_left,41,1.1456279754638672
+manuscript_row_0002,s0411,6,ct,x,f,71.0,inflammation,thorax,clavicula_left; lung_upper_lobe_left; rib_left_2; rib_left_3; rib_left_4; rib_left_5; rib_left_6; scapula_left; subclavian_artery_left,828,1.0764962434768677

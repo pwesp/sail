@@ -6,7 +6,6 @@ logs/
 pretrained/*.ckpt
 pretrained/*.pt
 pretrained/*.pth
-results/
 TotalSegmentator/
 
 # Byte-compiled / optimized / DLL files

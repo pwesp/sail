@@ -1,0 +1,3 @@
+feature_type,C,l1_ratio,n_nonzero,val_f1,method
+dense,1.0,0.5,1529,0.8043376630519474,fixed
+sparse,1.0,0.5,61,0.5056976152249677,fixed
