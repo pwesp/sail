@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Download pretrained SAIL SAE weights from GitHub Releases.
+# Download pretrained SAIL SAE weights from Hugging Face (pwesp/sail).
 # Run from the repository root: bash pretrained/download_weights.sh
 #
 # Places checkpoints directly in the lightning_logs/ structure expected by
@@ -11,10 +11,10 @@ set -euo pipefail
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 
 # ---------------------------------------------------------------------------
-# GitHub Release URLs
+# Hugging Face URLs
 # ---------------------------------------------------------------------------
-BIOMEDPARSE_URL="https://github.com/pwesp/sail/releases/download/v1.0/biomedparse_sae.ckpt"
-DINOV3_URL="https://github.com/pwesp/sail/releases/download/v1.0/dinov3_sae.ckpt"
+BIOMEDPARSE_URL="https://huggingface.co/pwesp/sail/resolve/main/biomedparse_sae.ckpt"
+DINOV3_URL="https://huggingface.co/pwesp/sail/resolve/main/dinov3_sae.ckpt"
 
 # ---------------------------------------------------------------------------
 # BiomedParse — optimal config D_128_512_2048_8192_K_20_40_80_160
