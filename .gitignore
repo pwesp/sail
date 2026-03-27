@@ -3,9 +3,6 @@ BiomedParse/
 data/
 lightning_logs/
 logs/
-pretrained/*.ckpt
-pretrained/*.pt
-pretrained/*.pth
 TotalSegmentator/
 
 # Byte-compiled / optimized / DLL files
