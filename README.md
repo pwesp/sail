@@ -67,7 +67,7 @@ All processed data and embeddings will be written to `data/` (created automatica
 
 ## ⬇️ Pretrained Weights
 
-To skip SAE training, download the pretrained weights from Hugging Face for the two models analyzed in the paper:
+To skip SAE training, download the pretrained weights from [Hugging Face](https://huggingface.co/pwesp/sail) for the two models analyzed in the paper:
 
 ```bash
 bash pretrained/download_weights.sh
