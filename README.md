@@ -1,6 +1,6 @@
 # SAIL: Sparse Autoencoders for Interpretable Medical Image Representation Learning
 
-The **SAIL** repository provides a pipeline to train Matryoshka SAEs on BiomedParse (1536-dim) and DINOv3 (1024-dim) embeddings from the TotalSegmentator CT/MRI dataset, evaluate sparse features along two axes (monosemanticity and downstream utility), and run three interpretability demonstrations: sparse fingerprint retrieval, VLM-based feature autointerpretation, and zero-shot language-driven image retrieval. ([arXiv preprint](https://doi.org/10.48550/arXiv.2603.23794))
+The **SAIL** repository provides a pipeline to train Matryoshka SAEs on BiomedParse (1536-dim) and DINOv3 (1024-dim) embeddings from the TotalSegmentator CT/MRI dataset, evaluate sparse features along two axes (monosemanticity and downstream utility), and run three interpretability demonstrations: sparse fingerprint retrieval, VLM-based feature autointerpretation, and zero-shot language-driven image retrieval. ([MICCAI 2026 Paper](https://papers.miccai.org/miccai-2026/paper/4497_paper.pdf))
 
 ---
 
